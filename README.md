@@ -1,4 +1,9 @@
-## Hi there 👋
+## Sejam bem-vindos!!
+- Estudante Senac/MG
+- Recente formado no E.M
+- Buscando conhecimento
+## Minhas redes:
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luiz.andreh)
 
 <!--
 **decoluiz/decoluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
