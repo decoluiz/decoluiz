@@ -1,4 +1,4 @@
-## vz ratão, só nas manha?
+## vz ratão, só nas manha?  
 - Me chamo André Luiz
 - Estudante Senac/MG
 - Recente formado no E.M
